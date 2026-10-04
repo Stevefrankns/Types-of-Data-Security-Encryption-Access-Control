@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://stevefrankns.github.io/Types-of-Data-Security-Encryption-Access-Control/sitemap.xml
